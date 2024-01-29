@@ -1,0 +1,14 @@
+Grading		
+Description Section	3	/3
+Reference Section	3	/3
+Implementation Section	3	/3
+Contributions	1	/1
+Total:	10	/10
+		
+Comments:		
+
+Sounds really thought out.		
+For a camera, you may want to check out: https://www.mun.ca/thecommons/digital-media-centre/		
+They will lend Nikon DSLR cameras for 3 days at a time -- I can help you learn how to use it if you need assistance.		
+
+Feel free to use pre-made libraries for many of the testing methods as this is a solo project -- just cite what you use.		
